@@ -41,7 +41,7 @@ export const recentSessions = [
   {
     id: "3",
     subject: "language",
-    name: "Verba the Vocabulary Builder",
+    name: "Verb the Vocabulary Builder",
     topic: "English Literature",
     duration: 30,
     color: "#BDE7FF",
